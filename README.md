@@ -40,3 +40,5 @@ git clone https://github.com/MujtabaIT2002/software-company-template.git
 
 📄 License
 This template is open-source and free to use.
+
+Feel free to use this template in your projects, portfolios, or freelance work. If you find it helpful, give it a ⭐ on GitHub!
